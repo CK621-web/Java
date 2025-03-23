@@ -23,7 +23,7 @@ public class Activity3 {
             }
             low++;
         }
-
+        sc.close();
     }
 
 }
