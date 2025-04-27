@@ -1,7 +1,6 @@
 package lesson6;
 
 import java.util.Scanner;
-import java.util.scanner;
 
 public class project1 {
     public static void main(String[] args) {
