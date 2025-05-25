@@ -1,0 +1,343 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson18.Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Activity1",
+            "request": "launch",
+            "mainClass": "Activity1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "AreaCalculatorMain",
+            "request": "launch",
+            "mainClass": "AreaCalculatorMain",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "PaymentSystemMain",
+            "request": "launch",
+            "mainClass": "PaymentSystemMain",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Project1",
+            "request": "launch",
+            "mainClass": "Project1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "lesson10.Area",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "GetSet",
+            "request": "launch",
+            "mainClass": "lesson10.GetSet",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Outside",
+            "request": "launch",
+            "mainClass": "lesson10.Outside.Outside",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson11.Activity1.Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity2",
+            "request": "launch",
+            "mainClass": "lesson11.Activity2.Activity2",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity1(1)",
+            "request": "launch",
+            "mainClass": "lesson12.Activity1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ApplicationMain",
+            "request": "launch",
+            "mainClass": "lesson12.ApplicationMain",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Project",
+            "request": "launch",
+            "mainClass": "lesson12.Project",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity1(2)",
+            "request": "launch",
+            "mainClass": "lesson13.Activity1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity2(1)",
+            "request": "launch",
+            "mainClass": "lesson13.Activity2",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "lesson14.Activity2.Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "lesson14.activity1.Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "lesson15.Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "VehicleMain",
+            "request": "launch",
+            "mainClass": "lesson15.VehicleMain",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "lesson17.Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity3",
+            "request": "launch",
+            "mainClass": "lesson2.Activity3",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Calc",
+            "request": "launch",
+            "mainClass": "lesson2.Calc",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Increments",
+            "request": "launch",
+            "mainClass": "lesson2.Increments",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity1(3)",
+            "request": "launch",
+            "mainClass": "lesson3.Activity1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity2(2)",
+            "request": "launch",
+            "mainClass": "lesson3.Activity2",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity3(1)",
+            "request": "launch",
+            "mainClass": "lesson3.Activity3",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "project3",
+            "request": "launch",
+            "mainClass": "lesson3.project3",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity1(4)",
+            "request": "launch",
+            "mainClass": "lesson4.Activity1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity2(3)",
+            "request": "launch",
+            "mainClass": "lesson4.Activity2",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "project1",
+            "request": "launch",
+            "mainClass": "lesson4.project1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Acitivity2",
+            "request": "launch",
+            "mainClass": "lesson5.Acitivity2",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity1(5)",
+            "request": "launch",
+            "mainClass": "lesson5.Activity1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity3(2)",
+            "request": "launch",
+            "mainClass": "lesson5.Activity3",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity1(6)",
+            "request": "launch",
+            "mainClass": "lesson6.Activity1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity2(4)",
+            "request": "launch",
+            "mainClass": "lesson6.Activity2",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Activity3(3)",
+            "request": "launch",
+            "mainClass": "lesson6.Activity3",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "project1(1)",
+            "request": "launch",
+            "mainClass": "lesson6.project1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeMain",
+            "request": "launch",
+            "mainClass": "lesson7.EmployeeMain",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Project(1)",
+            "request": "launch",
+            "mainClass": "lesson7.Project",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "StaticCounter",
+            "request": "launch",
+            "mainClass": "lesson7.StaticCounter",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Student$StudentMain",
+            "request": "launch",
+            "mainClass": "lesson7.Student$StudentMain",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "AnimalMain",
+            "request": "launch",
+            "mainClass": "lesson8.AnimalMain",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "StudentMain",
+            "request": "launch",
+            "mainClass": "lesson8.StudentMain",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "lesson9.Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "OverloadingExample",
+            "request": "launch",
+            "mainClass": "lesson9.OverloadingExample",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "OverrideExample",
+            "request": "launch",
+            "mainClass": "lesson9.OverrideExample",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "SuperExample",
+            "request": "launch",
+            "mainClass": "lesson9.SuperExample",
+            "projectName": "Java_3df404fa"
+        }
+    ]
+}

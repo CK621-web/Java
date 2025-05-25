@@ -1,7 +1,7 @@
 package lesson17;
 
 import java.util.Scanner;
-import java.util.ArrayList
+import java.util.ArrayList;
 
 class Course {
     private String name;
