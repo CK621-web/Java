@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindElementIndex",
+            "request": "launch",
+            "mainClass": "lesson19.FindElementIndex",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "SpanOfArray",
+            "request": "launch",
+            "mainClass": "lesson19.SpanOfArray",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "lesson18.Main",
