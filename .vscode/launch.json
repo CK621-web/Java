@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpiralArray",
+            "request": "launch",
+            "mainClass": "lesson21.SpiralArray",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "RepresentArray",
+            "request": "launch",
+            "mainClass": "lesson21.RepresentArray",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "activity1",
             "request": "launch",
             "mainClass": "lesson20.activity1",
