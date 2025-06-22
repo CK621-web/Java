@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson10.Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "ArrayInverter",
             "request": "launch",
             "mainClass": "lesson19.ArrayInverter",
