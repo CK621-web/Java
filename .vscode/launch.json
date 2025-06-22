@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WondersOfWorld",
+            "request": "launch",
+            "mainClass": "lesson11.wonders.WondersOfWorld",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "lesson10.Main",
