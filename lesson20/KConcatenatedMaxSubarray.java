@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class KConcatenatedMaxSubarray {
 
-    // Standard Kadane's Algorithm
     public static long kadane(int[] arr) {
         long maxEndingHere = arr[0];
         long maxSoFar = arr[0];
@@ -16,26 +15,22 @@ public class KConcatenatedMaxSubarray {
         return maxSoFar;
     }
 
-    // Modified for K concatenations
     public static long kConcatenationMaxSum(int[] arr, int k) {
-        long kadaneOne = kadane(arr); // Max subarray in single array
-
+        long kadaneOne = kadane(arr);
         if (k == 1)
             return kadaneOne;
 
-        // Total sum of one copy
         long totalSum = 0;
         for (int num : arr)
             totalSum += num;
 
-        // Make array with 2 copies to handle wrap-around
         int[] doubleArr = new int[arr.length * 2];
         for (int i = 0; i < arr.length; i++) {
             doubleArr[i] = arr[i];
             doubleArr[i + arr.length] = arr[i];
         }
 
-        long kadaneTwo = kadane(doubleArr); // Max subarray in 2 copies
+        long kadaneTwo = kadane(doubleArr);
 
         if (totalSum > 0) {
             return kadaneTwo + (k - 2) * totalSum;
