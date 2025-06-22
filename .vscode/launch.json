@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ActivityRingRotateByNTimes",
+            "request": "launch",
+            "mainClass": "lesson22.ActivityRingRotateByNTimes",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "lesson19.MatrixMultiplication",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "ActivityRingRotate",
             "request": "launch",
             "mainClass": "lesson22.ActivityRingRotate",
