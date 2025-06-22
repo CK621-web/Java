@@ -26,6 +26,7 @@ public class MatrixMultiplication {
 
         if (m1 != n2) {
             System.out.println("Invalid input");
+            sc.close();
             return;
         }
 
