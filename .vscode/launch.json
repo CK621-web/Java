@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KConcatenatedMaxSubarray",
+            "request": "launch",
+            "mainClass": "lesson20.KConcatenatedMaxSubarray",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "ActivityRingRotateByNTimes",
             "request": "launch",
             "mainClass": "lesson22.ActivityRingRotateByNTimes",
