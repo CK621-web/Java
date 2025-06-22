@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ActivityRingRotate",
+            "request": "launch",
+            "mainClass": "lesson22.ActivityRingRotate",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "SpiralArray",
             "request": "launch",
             "mainClass": "lesson21.SpiralArray",
