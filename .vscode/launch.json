@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson23.Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "Game",
             "request": "launch",
             "mainClass": "lesson15.Game",
