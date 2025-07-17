@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainReverse",
+            "request": "launch",
+            "mainClass": "lesson24.MainReverse",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListTrial",
+            "request": "launch",
+            "mainClass": "lesson24.ArrayListTrial",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "lesson23.Main",
