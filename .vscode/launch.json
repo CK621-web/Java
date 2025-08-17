@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "lesson26.FibonacciSeries",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "PowerLogarthmitic",
+            "request": "launch",
+            "mainClass": "lesson26.PowerLogarthmitic",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "PZZPattern",
+            "request": "launch",
+            "mainClass": "lesson25.PZZPattern",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "DirectRecursionTypes",
+            "request": "launch",
+            "mainClass": "lesson25.DirectRecursionTypes",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "lesson25.Recursion",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "MainReverse",
             "request": "launch",
             "mainClass": "lesson24.MainReverse",
