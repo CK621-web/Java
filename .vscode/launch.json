@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "lesson27.TowerOfHanoi",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "FibonacciSeries",
             "request": "launch",
             "mainClass": "lesson26.FibonacciSeries",
