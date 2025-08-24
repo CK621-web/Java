@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IndicesArray",
+            "request": "launch",
+            "mainClass": "lesson28.IndicesArray",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ArrayReverse",
+            "request": "launch",
+            "mainClass": "lesson28.ArrayReverse",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "DisplayArray",
+            "request": "launch",
+            "mainClass": "lesson28.DisplayArray",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "TowerOfHanoi",
             "request": "launch",
             "mainClass": "lesson27.TowerOfHanoi",
